@@ -99,6 +99,7 @@ section figure {
 	max-width: 1120px;
 	background-image: url("./Flower\ Asset/Rectangle 9.png");
 	background-repeat: no-repeat;
+	margin-bottom: 70px;
 }
 
 .latest-deal-header {
@@ -116,4 +117,24 @@ section figure {
 	border: none;
 	border-radius: 12px;
 	margin-right: 20px;
+}
+
+footer {
+	text-align: center;
+	padding: 100px;
+	background-color: #111010;
+}
+footer h3 {
+	color: #e55473;
+	margin-bottom: 20px;
+	font-size: 23px;
+}
+footer h3 span {
+	color: #fff;
+}
+footer p {
+	color: rgba(255, 255, 255, 40%);
+}
+footer > p {
+	margin-bottom: 16px;
 }
