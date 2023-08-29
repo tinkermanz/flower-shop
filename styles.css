@@ -81,4 +81,16 @@ section figure {
 }
 .hot-deal-section {
 	background-color: rgb(229, 84, 115, 10%);
+	margin-bottom: 60px;
+}
+.instagram-section {
+	max-width: 1140px;
+	margin-bottom: 60px;
+}
+.instagram-titles {
+	text-align: center;
+}
+
+.instagram-imgs {
+	display: flex;
 }
