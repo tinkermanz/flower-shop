@@ -17,7 +17,8 @@ img {
 	margin: 0 auto;
 }
 .header-div {
-	max-width: 1240px;
+	margin-top: 38px;
+	max-width: 1190px;
 	display: flex;
 }
 header {
@@ -25,7 +26,6 @@ header {
 	padding-top: 30px;
 }
 .header-section {
-	padding-right: 40px;
 	padding-top: 40px;
 }
 
@@ -36,7 +36,7 @@ header {
 }
 
 .header-para {
-	padding-right: 370px;
+	padding-right: 190px;
 }
 
 .figure-section {
