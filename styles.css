@@ -12,6 +12,15 @@ body {
 img {
 	max-width: 100%;
 }
+a:link {
+	text-decoration: none;
+	padding: 12px 22px;
+	border: none;
+	background-color: #e55473;
+	display: inline-block;
+	color: #ffff;
+	border-radius: 9px;
+}
 
 .container {
 	margin: 0 auto;
