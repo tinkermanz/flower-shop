@@ -41,6 +41,7 @@ header {
 }
 .featured-container {
 	max-width: 1110px;
+	margin-bottom: 80px;
 }
 
 .featured-section {
@@ -49,23 +50,35 @@ header {
 }
 .featured-section-imgs {
 	display: flex;
-	align-items: center;
+	align-items: last baseline;
 	gap: 50px;
-	align-items: baseline;
 }
 
 section figure {
 	width: 400px;
+	padding: 30px 30px 0;
 }
 .background-1 {
 	background-color: rgb(167, 33, 98, 15%);
 	border-radius: 50% 50% 0 0;
+	height: 415px;
 }
 .background-2 {
 	background-color: rgb(5, 151, 160, 15%);
 	border-radius: 50% 50% 0 0;
+	height: 415px;
 }
 .background-3 {
 	background-color: rgb(71, 125, 17, 15%);
 	border-radius: 50% 50% 0 0;
+	height: 415px;
+}
+
+.hot-deal-container {
+	max-width: 1140px;
+	display: flex;
+	align-items: center;
+}
+.hot-deal-section {
+	background-color: rgb(229, 84, 115, 10%);
 }
