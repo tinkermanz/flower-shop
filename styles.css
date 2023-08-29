@@ -94,3 +94,26 @@ section figure {
 .instagram-imgs {
 	display: flex;
 }
+
+.latest-deal-section {
+	max-width: 1120px;
+	background-image: url("./Flower\ Asset/Rectangle 9.png");
+	background-repeat: no-repeat;
+}
+
+.latest-deal-header {
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 35px;
+}
+.latest-deal-form {
+	text-align: center;
+	padding-bottom: 100px;
+}
+
+.latest-deal-form input {
+	padding: 11px 100px;
+	border: none;
+	border-radius: 12px;
+	margin-right: 20px;
+}
